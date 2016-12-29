@@ -1,0 +1,49 @@
+.bg{background:url(../images/bg.png) no-repeat ; background-size:45px 45px; }
+
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+
+#turbine {
+    width: 30%;
+    height: auto;
+    position: absolute;
+    left: -5%;
+    z-index: 99;
+}
+
+
+.turbine {
+    /*width: 200px;*/
+    width: 45px;
+    height: auto;
+}
+
+.arrow {
+    position: absolute;
+    top: 8%;
+    left: 8%;
+    font-weight: lighter;
+}
+
+
+
+.propeller {
+    display: none;
+}
+
+
+examples_wrapper {
+    box-sizing: border-box;
+
+}
+.example {
+display:inline-block;
+
+}
+
+
+
+
+

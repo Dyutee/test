@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/var/www/html/video1/joins'
+let g:netrw_dirhist_2='/sanjeev/FS4_Backup/February/60_machine_bkp_2015-02-19_11:22:05/www/fs4/py'
+let g:netrw_dirhist_3='/root/.vim/colors'
+let g:netrw_dirhist_4='/var/www/html/dummy'

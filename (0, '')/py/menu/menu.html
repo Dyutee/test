@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Main Menu</title>
+<link href="css/menu.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="jquery-1.7.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".firstLevelItemWrap, .SecondLevelItemWrap, .ThirdLevelItemWrap").mouseenter(function(){
+		$(this).children("h3").css("color","#e10019");
+		$(this).children("h2").css("color","#e10019");	   
+   });
+   $(".firstLevelItemWrap, .SecondLevelItemWrap, .ThirdLevelItemWrap").mouseleave(function(){
+		$(this).children("h3").css("color","#585858");
+		$(this).children("h2").css("color","#585858");	   
+   });
+   
+   $(".firstLevelItemWrap").click(function(){	   
+	   $(".2ndLevel").css("display","none"); 
+	   if ($(this).next(".2ndLevel").is(":hidden")) {
+				$(this).next(".2ndLevel").removeAttr("style");
+				//$(this).find(".tariffheadericon").attr("src","assets/images/minus-icon.png");	
+			}  
+   });
+   $(".SecondLevelItemWrap").click(function(){	   
+	   $(".3rdLevel").css("display","none"); 
+	   if ($(this).next(".3rdLevel").is(":hidden")) {
+				$(this).next(".3rdLevel").removeAttr("style");
+				//$(this).find(".tariffheadericon").attr("src","assets/images/minus-icon.png");	
+			}  
+   });
+      
+});
+</script>
+</head>
+
+<body>
+<div class="menuNavWrap"> 
+  <!--Level 1 Menu starts from here-->
+  <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/resources_icon.png" width="24" height="23" /></div>
+    <h3>RESOURCES</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <div class="2ndLevel" style="display:none;">
+  <!--Level 2 Menu starts from here-->
+  <div class="SecondLevelItemWrap">
+    <div class="secondLevelRightarrow"> <img src="images/secondrightArrow.png"/></div>
+    <h3>Resources Information</h3>
+  </div>
+  <div class="3rdLevel" style="display:none;">
+  <!--Level 2.1 Menu starts from here-->
+  <a href="#"><div class="ThirdLevelItemWrap">
+    <h2>OS Information</h2>
+  </div></a> 
+   <a href="#"><div class="ThirdLevelItemWrap">
+    <h2>Sensor Information</h2>
+  </div></a> 
+   <a href="#"><div class="ThirdLevelItemWrap">
+    <h2>Volume Information</h2>
+  </div></a> 
+  <a href="#"><div class="ThirdLevelItemWrap">
+    <h2>Disk Information</h2>
+  </div></a> 
+  <!--Level 2.1 Menu ends here --> 
+  </div>  
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Date/Time Settings</h2>
+  </div></a>
+   <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Network Settings</h2>
+  </div></a>
+  <a href="#"> <div class="SecondLevelItemWrap">
+    <h2>Authentication Settings</h2>
+  </div></a>
+  <!--Level 2 Menu ends here --> 
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+  <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/resources_icon.png" width="24" height="23" /></div>
+    <h3>NAS</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <div class="2ndLevel" style="display:none;">
+   <!--Level 2 Menu starts from here-->
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Shares</h2>
+  </div></a>
+   <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Quota</h2>
+  </div> </a> 
+  <!--Level 2 Menu ends here --> 
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+ <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/resources_icon.png" width="24" height="23" /></div>
+    <h3>SAN</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <div class="2ndLevel" style="display:none;">
+   <!--Level 2 Menu starts from here-->
+  <a href="#"><div class="SecondLevelItemWrap">
+    <div class="secondLevelRightarrow"> <img src="images/secondrightArrow.png"/></div>
+    <h3>I-SCSI</h3>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <div class="secondLevelRightarrow"> <img src="images/secondrightArrow.png"/></div>
+    <h3>SRP</h3>
+  </div></a>
+ <a href="#"> <div class="SecondLevelItemWrap">
+    <div class="secondLevelRightarrow"> <img src="images/secondrightArrow.png"/></div>
+    <h3>FC</h3>
+  </div>  </a>
+  <!--Level 2 Menu ends here --> 
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+  <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/VTL.png" width="24" height="23" /></div>
+    <h3>VTL</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <div class="2ndLevel" style="display:none;">
+  <!--Level 2 Menu starts from here-->
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>VTL Settings</h2>
+  </div></a>
+  <!--Level 2 Menu ends here --> 
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+  <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/raid.png" width="24" height="23" /></div>
+    <h3>RAID</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <div class="2ndLevel" style="display:none;">
+   <!--Level 2 Menu starts from here-->
+  <a href="#"><div class="SecondLevelItemWrap">
+    <div class="secondLevelRightarrow"> <img src="images/secondrightArrow.png"/></div>
+    <h3>Volume Configuration</h3>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Raid Setup</h2>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Raid Set Functions</h2>
+  </div> </a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Volume Set Functions</h2>
+  </div> </a> 
+  <!--Level 2 Menu ends here --> 
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+ <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/maintenance.png" width="24" height="23" /></div>
+    <h3>MAINTAINANCE</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <div class="2ndLevel" style="display:none;">
+  <!--Level 2 Menu starts from here-->
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Infiniband</h2>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Services</h2>
+  </div> </a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Logs</h2>
+  </div> </a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Backup</h2>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Shutdown</h2>
+  </div> </a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Scan Volume</h2>
+  </div> </a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Remount</h2>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Snapshot</h2>
+  </div> </a>
+ <a href="#"> <div class="SecondLevelItemWrap">
+    <h2>Manage Users</h2>
+  </div> </a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Updates</h2>
+  </div></a>
+  <a href="#"><div class="SecondLevelItemWrap">
+    <h2>Mail Configuration</h2>
+  </div> </a>
+  <!--Level 2 Menu ends here -->
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+  <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/fs2.png" width="24" height="23" /></div>
+    <h3>FS2 DATA ANALYSIS</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <!--Level 1 Menu ends here--> 
+  <!--Level 1 Menu starts from here-->
+  <div class="firstLevelItemWrap">
+    <div class="firstLevelItemImageWrap"><img src="images/help.png" width="24" height="23" /></div>
+    <h3>HELP</h3>
+    <div class="firstLevelRightarrow"> <img src="images/firstrightArrow.png"/></div>
+  </div>
+  <!--Level 1 Menu ends here--> 
+</div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<h:panelGroup id="header" layout="block">
+    <h1>Header</h1>
+</h:panelGroup>
+<h:panelGroup id="menu" layout="block">
+    <h:form>
+        <f:ajax render=":content">
+            <ul>
+                <li><h:commandLink value="include1" action="#{bean.setPage('include1')}" /></li>            
+                <li><h:commandLink value="include2" action="#{bean.setPage('include2')}" /></li>            
+                <li><h:commandLink value="include3" action="#{bean.setPage('include3')}" /></li>            
+            </ul>
+        </f:ajax>
+    </h:form>
+</h:panelGroup>
+<h:panelGroup id="content" layout="block">
+    <ui:include src="#{bean.page}.xhtml" />
+</h:panelGroup>

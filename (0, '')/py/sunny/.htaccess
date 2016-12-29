@@ -1,0 +1,4 @@
+RewriteCond %{THE_REQUEST} ^[A-Z]+\s([^\s]+)\.php\s
+RewriteRule .* %1.html [R=301,L]
+
+RewriteRule ^(.*)\.html$ $1.php

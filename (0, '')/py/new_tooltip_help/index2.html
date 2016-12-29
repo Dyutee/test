@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>jQuery Show Div On Mouseover Examples</title>
+<script type="text/javascript" src="../../js/jquery1.7.js"></script>
+<style type="text/css">
+#default_div {
+border: 1px solid #063;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+#hidden_div {
+border: 2px dashed #F60;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+</style>
+</head>
+ 
+<body>
+ 
+<img src="images/1.jpg" id="img" class="img_class" style="color:#03C;" />
+ 
+<input type="submit" name="show_div" id="show_div" value="Show Div" />
+ 
+<input type="submit" name="hide_div" id="hide_div" value="Hide Div" />
+ 
+<input type="submit" name="toggle_div" id="toggle_div" value="Toggle Div" />
+ 
+<div id="default_div">This div is visible by default</div>
+ 
+<div id="hidden_div">This div is hidden</div>
+ 
+<script type="text/javascript" language="javascript" >
+ 
+$(document).ready(function(){
+ 
+//MANDATORY: Hide the intended div upon page load or it will be visible throughout
+$('#hidden_div').hide();
+ 
+});
+ 
+</script>
+</body>
+</html>

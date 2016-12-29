@@ -1,0 +1,229 @@
+#!/usr/bin/python
+
+import cgitb, sys, include_files
+cgitb.enable()
+sys.path.append('../modules/')
+import disp_except;
+
+try:
+	import socket
+	#print request.META['REMOTE_HOST']
+	print """<script>
+	string hostname = Request.UserHostName;
+	alert(hostname);
+	</script>"""
+	import commands, os, cgi, common_methods, string
+
+	sys.path.append('/var/nasexe/storage/')
+	import san_disk_funs
+
+	log_array = [];
+	log_file = common_methods.log_file;
+	logstring = '';
+
+	disks = []
+	disks2 = san_disk_funs.list_all_disk_att()
+	for f in disks2:
+		if ((f["type"] == "BIO") or (f["type"] == "FIO")):
+			disks.append(f)
+	#iface_info = [{'status': 'down', 'network_addr': '192.168.6.0', 'iface': 'sandisk1', 'slave_ifaces_status': [], 'slave_ifaces': [], 'netmask': '255.255.255.0', 'address': '192.168.6.12', 'is_def_gateway': 'no', 'model': ' I350 Gigabit Network Connection', 'gateway': '0.0.0.0'}, {'status': 'down', 'network_addr': '192.168.7.0', 'iface': 'sandisk2', 'slave_ifaces_status': [], 'slave_ifaces': [], 'netmask': '255.255.255.0', 'address': '192.168.7.13', 'is_def_gateway': 'no', 'model': ' I350 Gigabit Network Connection', 'gateway': '0.0.0.0'}]
+
+	array_len = len(disks)
+
+	sys.path.append("/var/nasexe/python/")
+	import tools
+	from tools import db
+	sys_node_name = tools.get_ha_nodename()
+        if(sys_node_name == "node1"):
+                other_node = "node2"
+                show_tn = "Node1"
+                show_on = "Node2"
+        else:
+                other_node = "node1"
+                show_tn = "Node2"
+                show_on = "Node1"
+
+        query="select * from network_ifaces where (name='eth1' and node='"+other_node+"')"
+        status=db.sql_execute(query)
+        for x in status["output"]:
+                other_node_ip = x["ip"]
+
+	#----------------------------------------- Network Settings End -------------------------------------------#
+
+
+	#print 'Content-Type: text/html'
+	print
+	print """
+	<!-- ############## Fancybox CSS and JAVASCRIPT Start ############## -->
+
+	<link rel="stylesheet" href="../fancyBox/source/jquery.fancybox.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="../fancyBox/source/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$(".various").fancybox({
+			maxWidth        : 800,
+			maxHeight       : 600,
+			fitToView       : false,
+			width           : '60%',
+			height          : '68%',
+			autoSize        : false,
+			closeClick      : false,
+			openEffect      : 'none',
+			closeEffect     : 'none',
+			'afterClose':function () {
+				window.location.reload();
+			},
+			helpers: { 
+				overlay :{closeClick: false} // prevents closing when clicking OUTSIDE fancybox 
+			}
+			
+		});
+
+	});
+	</script>
+
+	<!-- ############## Fancybox CSS and JAVASCRIPT End ############## -->
+
+		<div id="loader-div" style="text-align:center; display:none;" ><img style="margin-top:20%;" src="../images/ajax-loader.gif" /><br/> Loading...</div>
+	      <!--Right side body content starts from here-->
+	      <div class="rightsidecontainer" id="body-div">
+		<!--tab srt-->
+		<div class="searchresult-container">
+		<div style="margin:0 0 0px 0;" class="topinputwrap-heading"><a class="demo" href ="#"><img src ="../images/help_icon1.png"><span class="tooltip" >
+                 <table border="0">
+        <tr>
+        <td style="font-size: medium;text-align:start;">San Disk:</td>
+        </tr>
+        <tr>
+        <td class="text_css">In this Page Create a San Disk .</td>
+        </tr>
+        </table></span></a>Disks added to SAN in """+show_tn+"""
+                <span style="float:right; margin:0 0px 0 0;"><a onclick="return onclick_loader();" class="resource_links" href="https://"""+other_node_ip+"""/fs4/py/iframe_added_to_san.py">"""+show_on+"""</a></span>
+                </div>
+		  <div class="infoheader">
+		    <div id="tabs">
+		      <ul style="display:none;">
+			<li><a href="#tabs-2">Network</a></li>
+		      </ul>
+		      <div id="tabs-2">
+		<!--form container starts here-->
+		<div class="iframe-form-container">
+		  <div class="inputwrap">
+		    <div class="formrightside-content">"""
+
+	if(disks == []):
+		print """<div style="color:#B40404; width:700px; text-align:center;">No Disk added to SAN! </div>"""
+	print """<nav id="menu_san">
+
+	<ul>"""
+
+	i=1
+	s=1
+	for x in disks:
+
+		print """<li onclick="return folder_click("""+str(i)+""", """+str(array_len)+""", """+str(s)+""");"><a>"""+x["name"]+"""</a>
+
+		<style>
+		#popUpDiv1"""+str(i)+""" {position: fixed; background-color: #fff; min-width: 400px; z-index: 9002; padding: 5px;}
+		#popUpDiv1"""+str(i)+""" h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+		#popUpDiv1"""+str(i)+""" span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+
+		#popUpDiv2"""+str(i)+""" {position: fixed; background-color: #fff; min-width: 400px; z-index: 9002; padding: 5px;}
+		#popUpDiv2"""+str(i)+""" h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+		#popUpDiv2"""+str(i)+""" span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+
+		#popUpDiv3"""+str(i)+""" {position: fixed; background-color: #fff; min-width: 400px; z-index: 9002; padding: 5px;}
+		#popUpDiv3"""+str(i)+""" h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+		#popUpDiv3"""+str(i)+""" span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+
+		#popUpDiv4"""+str(i)+""" {position: fixed; background-color: #fff; min-width: 400px; z-index: 9002; padding: 5px;}
+		#popUpDiv4"""+str(i)+""" h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+		#popUpDiv4"""+str(i)+""" span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+
+		#popUpDiv5"""+str(i)+""" {position: fixed; background-color: #fff; min-width: 400px; z-index: 9002; padding: 5px;}
+		#popUpDiv5"""+str(i)+""" h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+		#popUpDiv5"""+str(i)+""" span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+
+		#popUpDiv6"""+str(i)+""" {position: fixed; background-color: #fff; min-width: 400px; z-index: 9002; padding: 5px;}
+		#popUpDiv6"""+str(i)+""" h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+		#popUpDiv6"""+str(i)+""" span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+
+		</style>
+
+		<div style="display: none;" id="blanket"></div>
+		<div style="display: none;" id='popUpDiv1"""+str(i)+"""'>
+		<h5>Information of """+x["name"]+""" <span onclick="popup('popUpDiv1"""+str(i)+"""')">X</span></h5>
+		<p class="popup">
+		<table width="80%" style="margin:0 0 20px 70px;">"""
+		if 'd_name' in x.keys():
+			print """<tr>
+			<th align="left">Disk Name</th>
+			<td>"""+x["d_name"]+"""</td>
+			</tr>"""
+		if 'blocksize' in x.keys():
+			print """<tr>
+			<th align="left">Blocksize</th>
+			<td>"""+x["blocksize"]+"""</td>
+			</tr>"""
+		if 'size_mb' in x.keys():
+			print """<tr>
+			<th align="left">Size(MB)</th>
+			<td>"""+x["size_mb"]+"""</td>
+			</tr>"""
+		if 'type' in x.keys():
+			print """<tr>
+			<th align="left">Type</th>
+			<td>"""+x["type"]+"""</td>
+			</tr>"""
+		print """
+		</table>
+		</p>
+		</div>
+
+		<div style="display: none;" id='popUpDiv2"""+str(i)+"""'>
+		<h5>Option 2 of """+x["name"]+""" <span onclick="popup('popUpDiv2"""+str(i)+"""')">X</span></h5>
+		<p class="popup">Option 2</p>
+		</div>
+
+
+
+		<div id='"""+str(i)+"""' style="display:none;">
+		<ul>
+
+		<li><a href="#" onclick="popup('popUpDiv1"""+str(i)+"""')">Information</a></li>
+		<!--<li><a href="#" onclick="popup('popUpDiv2"""+str(i)+"""')">Option 2</a></li>-->
+
+
+		</ul>
+		</div>
+
+		</li>"""
+		i=i+1
+
+	print """
+
+
+	</ul>
+
+	</nav>
+
+
+
+	</div>	
+		</div>
+		</div>
+		<!--form container ends here-->
+		<p>&nbsp;</p>
+		      </div>
+		      </div>
+
+
+
+
+
+		    </div>
+		  </div>
+		</div>
+	"""
+except Exception as e:
+	disp_except.display_exception(e);

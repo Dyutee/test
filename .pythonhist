@@ -1,0 +1,65 @@
+import asynchat
+import os, sys
+sys.path
+sys.path.append("/tmp/new/")
+ls=['a','b','c']
+help(prefix)
+help(os)
+pf="eth-"
+pf+ls[0]
+ls1=['a','b','c','d']
+s= list(set(ls1)-set(ls))
+print s
+os.remove("/tmp/new" + pf+ls[0])
+os.remove("/tmp/new/" + pf+ls[0])
+from random import randint
+randint(2,9)
+randint()
+randint(0000,9999)
+randint(0000,9999)
+lst1=[60, 21, 91, 54, 32, 89, 49, 93, 79, 88]
+lst1.reverse(lst1)
+lst1.reverse()
+print lst1.reverse()
+lst1[::-1]
+def custom_error():
+    try:
+           xx=(int(raw_input)) 
+           print xx
+    except:    
+           print 'Error' 
+        
+    
+custom_error('sanjeev')
+custom_error()
+def custom_error():
+    try:
+        xx=[0,1,2,3]
+        x=xx[5]
+    except:
+        err='I can neglect ignorance, but not stupidity'
+        print err
+        
+    
+custom_error()
+man list
+man list()
+man list
+man list
+import sub
+import subpr
+import subprocess
+import subprocess
+help(subprocess)
+help(date)
+help(urllib2)
+import urllib2
+help(urllib2)
+help(urllib2)
+import pickle
+a = {'hello':'world'}
+with open('tgg.pickle','wb') as handle:
+        pickle.dump
+        pickle.dump(a ,handle)
+        
+    

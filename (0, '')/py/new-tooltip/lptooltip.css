@@ -1,0 +1,119 @@
+.lpTooltipWrap {
+  position: absolute;
+  z-index: 10000;
+  font-family: sans-serif;
+  text-align: center;
+  display: none;
+}
+
+.lpTooltipText {
+  position: relative;
+  
+}
+
+.lpTooltipText span {
+  position: relative;
+  margin: 0 -80px;
+  padding: 5px 7px 5px 7px;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  border-radius: 3px;
+  display: inline-block;
+  background: #2b2b2b;
+  background: rgba(0,0,0,0.8);
+}
+
+@-moz-document url-prefix() {
+  .lpTooltipText span {
+    padding: 5px 7px 4px 7px;
+  }
+}
+
+.lpRight {
+  /*oldmargin-left: 90px;
+  text-align: left;*/
+  margin-left:15px;
+}
+
+.lpLeft {
+  margin-left: -90px;
+  text-align: right;
+}
+
+.lpTooltipText span:after {
+  content: '';
+  position: absolute;
+  bottom: -14px;
+  left: 50%;
+  margin: 0 0 0 -7px;
+  border: 7px solid transparent;
+  border-top-color: #2b2b2b;
+  border-top-color: rgba(0,0,0,0.8);
+}
+
+.lpBottom .lpTooltipText span:after {
+  content: '';
+  position: absolute;
+  top: -14px;
+  bottom: auto;
+  left: 50%;
+  margin: 0 0 0 -7px;
+  border: 7px solid transparent;
+  border-bottom-color: #2b2b2b;
+  border-bottom-color: rgba(0,0,0,0.8);
+}
+
+.lpLeft .lpTooltipText span:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  left: auto;
+  right: -14px;
+  margin: -7px 0 0 0;
+  border: 7px solid transparent;
+  border-left-color: #2b2b2b;
+  border-left-color: rgba(0,0,0,0.8);
+}
+
+.lpRight .lpTooltipText span:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  left: -14px;
+  right: auto;
+  margin: -7px 0 0 0;
+  border: 7px solid transparent;
+  border-right-color: #2b2b2b;
+  border-right-color: rgba(0,0,0,0.8);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

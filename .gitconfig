@@ -1,0 +1,10 @@
+[merge]
+	tool = 
+[user]
+	name = Sanjeev
+	email = root@localhost
+[alias]
+	st = status
+	cm = commit
+	ci = commit
+	last = log -l HEAD

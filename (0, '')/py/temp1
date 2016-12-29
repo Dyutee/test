@@ -1,0 +1,1 @@
+[BUG][ERROR]could...not...convert...string...to...float:...te, Traceback...(most...recent...call...last):[/ERROR][ERROR]......File...--/var/www/fs4/py/iframe_all_disk_list.py--,...line...228,...in...[module][/ERROR][ERROR]............print...isinstance(float(update_size),...str)[/ERROR][ERROR]ValueError:...could...not...convert...string...to...float:...te[/ERROR][/BUG]

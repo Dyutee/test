@@ -1,0 +1,84 @@
+/* popup
+----------------------------------------------------------------------*/
+
+p.popup { font-size: 15px; margin: 0px; text-align: center; padding:20px 0 20px 0; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif; }
+a { text-decoration: none; color: #F06; }
+.close_pop_div{ float:right; margin:0; }
+
+#blanket_cover {
+	background-color: #666;
+	/*opacity: 0.65;
+	filter: alpha(opacity=45);*/
+	position: fixed;
+	z-index: 9099;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height:100%;
+	color:#611B0D;
+	font-size:14px;
+	text-align:center;	
+	vertical-align:center;
+}
+
+#blanket {
+	background-color: #666;
+	opacity: 0.65;
+	filter: alpha(opacity=45);
+	position: fixed;
+	z-index: 9001;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height:100%;
+}
+
+#blanket23 {
+	background-color: #666;
+	opacity: 0.65;
+	filter: alpha(opacity=45);
+	position: fixed;
+	z-index: 9001;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height:100%
+}
+
+#blanket4 {
+	background-color: #666;
+	opacity: 0.65;
+	filter: alpha(opacity=45);
+	position: fixed;
+	z-index: 9001;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+#blanket2 {
+	background-color: #666;
+	opacity: 0.65;
+	filter: alpha(opacity=45);
+	position: fixed;
+	z-index: 9;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height:100%
+}
+#blanket3 {
+	background-color: #666;
+	opacity: 0.65;
+	filter: alpha(opacity=45);
+	position: fixed;
+	z-index: 15;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height:100%
+}
+#bondpopUpDiv {position: fixed; background-color: #fff; width: 500px; z-index: 10; padding: 5px; top:5px !important;}
+#bondpopUpDiv h5{width:100%; font-size:15px; color:#0070bd; text-align:center; font-weight:bold;}
+#bondpopUpDiv span{ color:#FFFFFF; background-color:#0070bd; padding:1px 3px 0 3px; float:right;}
+

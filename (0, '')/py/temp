@@ -1,0 +1,4 @@
+could not convert string to float: teTraceback (most recent call last):
+  File "/var/www/fs4/py/iframe_all_disk_list.py", line 228, in <module>
+    print isinstance(float(update_size), str)
+ValueError: could not convert string to float: te

@@ -1,0 +1,4 @@
+[BUG][ERROR][Errno...2]...No...such...file...or...directory:...--/storage/BI/Ingest--, Traceback...(most...recent...call...last):[/ERROR][ERROR]......File...--/var/www/fs4/py/show_dir1.py--,...line...189,...in...[module][/ERROR][ERROR]............list_all_dir...=...os.listdir(full_path)[/ERROR][ERROR]OSError:...[Errno...2]...No...such...file...or...directory:...--/storage/BI/Ingest--[/ERROR][/BUG]
+
+---------------------------------------------------
+

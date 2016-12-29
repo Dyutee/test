@@ -1,0 +1,141 @@
+body {
+	margin: 0px;
+	background: #ffffff;
+	background: url(../py/images/images/bgtexture.jpg) repeat;
+
+}
+.logInPage {
+	width: 100%;
+	margin: 0px;
+	float: left;
+}
+.logInWrapper {
+	width: 500px;
+	margin: 0px auto;
+	margin-top: 120px;
+}
+.logo {
+	float: right;
+	text-align: right;
+	width: 100%;
+	margin-bottom: 15px;
+}
+.logInContainer {
+	width: 500px;
+	float: left;
+	margin: 0px;
+	/*background: #c60000;*/
+	-webkit-box-shadow: 0px 1px 15px 0px rgba(0, 0, 0, 0.30);
+	-moz-box-shadow: 0px 1px 15px 0px rgba(0, 0, 0, 0.30);
+	box-shadow: 0px 1px 15px 0px rgba(0, 0, 0, 0.30);
+}
+.loginbg {
+	float: left;
+	width: 145px;
+}
+.textBoxWrapper {
+	width: 305px;
+	padding: 5px 25px;
+	float: right;
+	background: #f3f3f3;
+}
+.textlabel {
+	float: left;
+	width: 100%;
+	color: #585858;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 20px;
+}
+.textboxContainer {
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+.username {
+	width: 88%;
+	height: 28px;
+	border: none;
+	-webkit-box-shadow: inset 0 1px 2px 0 #333333;
+	-moz-box-shadow: inset 0 1px 2px 0 #333333;
+	box-shadow: inset 0 1px 2px 0 #333333;
+	background: url(../py/images/images/username.jpg) #ffffff no-repeat 5px;
+	padding-left: 9%;
+	padding-right: 3%;
+	font-size: 12px;
+	color: #333;
+}
+.password {
+	width: 88%;
+	height: 28px;
+	border: none;
+	-webkit-box-shadow: inset 0 1px 2px 0 #333333;
+	-moz-box-shadow: inset 0 1px 2px 0 #333333;
+	box-shadow: inset 0 1px 2px 0 #333333;
+	background: url(../py/images/images/password.jpg) #ffffff no-repeat 5px;
+	padding-left: 9%;
+	padding-right: 3%;
+	font-size: 12px;
+	color: #333;
+}
+.userAction {
+	float: right;
+	text-align: right;
+	width: 100%;
+	margin: 10px 0px;
+	color: #585858;
+	font-size: 11px;
+}
+.userActionText {
+	color: #585858;
+	font-size: 11px;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.userActionText:hover {
+	text-decoration: underline;
+}
+.buttonWrapper {
+	float: right;
+	text-align: right;
+	margin: 15px 0px;
+}
+.buttonClass2 {
+	width: 150px;
+	padding: 4px 10px;
+	font-size: 13px;
+	border: 1px solid #aaaaaa;
+	background: #dddddd;
+	color: #333;
+	cursor: pointer;
+}
+.buttonClass2:hover {
+	background: #cccccc;
+	cursor: pointer;
+}
+.buttonClass {
+	width: 100px;
+	padding: 4px 10px;
+	font-size: 13px;
+	border: 1px solid #aaaaaa;
+	background: #dddddd;
+	color: #333;
+	cursor: pointer;
+}
+.buttonClass:hover {
+	background: #cccccc;
+	cursor: pointer;
+}
+.buttonClassActive {
+	width: 100px;
+	padding: 5px 10px;
+	font-size: 13px;
+	border: none;
+	background: #ccc;
+	color: #333;
+	cursor: pointer;
+	-webkit-box-shadow: inset 0 1px 1px 0 #666;
+	-moz-box-shadow: inset 0 1px 1px 0 #666;
+	box-shadow: inset 0 1px 1px 0 #666;
+}

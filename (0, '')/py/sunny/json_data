@@ -1,0 +1,7 @@
+{
+"readonly":"checked",
+"visible":"checked",
+"public":"no",
+"authenticatedi":"checked",
+"users":"['sunny','sanjeev','rahul','craja']",
+"groups":"['USERS','netweb','tyrone']"}

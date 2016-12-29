@@ -1,0 +1,1289 @@
+2014-01-29 17:26:00<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 18:32:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 18:50:06<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 18:56:34<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 19:07:55<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 19:09:43<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 19:09:43<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 19:09:43<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 19:09:44<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-29 19:29:29<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 09:58:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 10:25:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 10:33:32<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 10:43:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 10:58:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 11:02:00<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 11:02:24<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 11:02:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 11:20:21<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 11:28:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 11:38:50<<>>INFO<<>>INFO: Backup of logs are collected successfully.<<>>SCRIPT<<>>fs2 schedule log backup sys cron script
+2014-01-30 11:38:50<<>>INFO<<>>INFO: log backup cron script is called and backup files are created in predefined location.<<>>SCRIPT<<>>fs2 schedule log backup sys cron script
+2014-01-30 11:38:51<<>>INFO<<>>INFO: System logs are cleared successfully.<<>>SCRIPT<<>>log_utils module clear_logs function
+2014-01-30 11:41:55<<>>INFO<<>>INFO: Backup of logs are collected successfully.<<>>SCRIPT<<>>fs2 schedule log backup sys cron script
+2014-01-30 11:41:55<<>>INFO<<>>INFO: log backup cron script is called and backup files are created in predefined location.<<>>SCRIPT<<>>fs2 schedule log backup sys cron script
+2014-01-30 11:41:55<<>>INFO<<>>INFO: System logs are cleared successfully.<<>>SCRIPT<<>>log_utils module clear_logs function
+2014-01-30 11:47:19<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/sys/clearlogs_after_backup20140130113700] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-01-30 11:55:27<<>>ERROR<<>>Successfully removed  the file  /var/nasconf/etc/cron.d//sys-clearlogs_after_backup20140130113700<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 11:55:27<<>>INFO<<>>scheduler [clearlogs_after_backup20140130113700] Successfully ejected from scheduler<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 11:58:47<<>>ERROR<<>>Given schedule  script is not available [/var/nasexe/python/launcher_scripts/usr/clearlogs_after_backup20140130113700]<<>>SCRIPT<<>>launcher.ingest
+2014-01-30 11:59:49<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/usr/clearlogs_after_backup20140130113700] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-01-30 12:00:48<<>>ERROR<<>>Successfully removed  the file  /var/nasconf/etc/cron.d//usr-clearlogs_after_backup20140130113700<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:00:48<<>>INFO<<>>scheduler [clearlogs_after_backup20140130113700] Successfully ejected from scheduler<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:02:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 12:05:17<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/usr/clearlogs_after_backup20140130113700] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-01-30 12:06:25<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 12:07:11<<>>ERROR<<>>Successfully removed  the file  /var/nasconf/etc/cron.d//usr-clearlogs_after_backup20140130113700<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:07:11<<>>INFO<<>>scheduler [clearlogs_after_backup20140130113700] Successfully ejected from scheduler<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:07:20<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/usr/clearlogs_after_backup20140130113700] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-01-30 12:11:33<<>>ERROR<<>>Successfully removed  the file  /var/nasconf/etc/cron.d//usr-clearlogs_after_backup20140130113700<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:11:33<<>>INFO<<>>scheduler [clearlogs_after_backup20140130113700] Successfully ejected from scheduler<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:18:47<<>>ERROR<<>>Given   script is not injested   [/var/nasconf/etc/cron.d//usr-clearlogs_after_backup20140130113700]<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:18:47<<>>INFO<<>>scheduler [clearlogs_after_backup20140130113700] Successfully ejected from scheduler<<>>SCRIPT<<>>launcher.eject_corn
+2014-01-30 12:19:03<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/usr/clearlogs_after_backup20140130113700] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-01-30 12:19:07<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 12:20:33<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 12:38:47<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 12:38:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 12:46:42<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:19:09<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 13:22:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:22:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:22:08<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:23:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 13:28:37<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 13:28:51<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 13:38:49<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:41:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:41:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:41:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 13:44:05<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 14:23:52<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 14:25:44<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:28:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 14:32:33<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 14:32:52<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:34:30<<>>ERROR<<>>ERROR: Unable to get share information for share mynewshare<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:34:30<<>>ERROR<<>>ERROR: share creation path p3disk// is not valid.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:35:05<<>>ERROR<<>>ERROR: Unable to get share information for share mynewshare<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:35:05<<>>ERROR<<>>ERROR: share creation path p3disk/mynewshare/ is not valid.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:35:21<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 14:48:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 14:53:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 14:57:47<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 15:37:02<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 16:54:18<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 16:54:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 16:54:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 16:54:38<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 17:53:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:53:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 17:54:14<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:25<<>>ERROR<<>>ERROR: Unable to get share information for share newshare<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:25<<>>ERROR<<>>INFO: new share with path /storage/p3disk/newshare is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:32<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-30 17:54:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:48<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:51<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:54:53<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:55:03<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-30 17:55:04<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-30 17:55:23<<>>INFO<<>>Successfully chage the  ownership of [/storage/p3disk/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-01-30 17:57:41<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 19:01:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 19:17:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 19:18:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-30 19:18:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 10:22:29<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 10:24:55<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 10:30:38<<>>INFO<<>>INFO: System logs are cleared successfully.<<>>SCRIPT<<>>log_utils module clear_logs function
+2014-01-31 10:41:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 11:24:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 11:48:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 11:48:44<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 11:51:20<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 11:51:20<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 11:51:25<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 12:11:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 13:32:21<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/sys/check_disks_db20140131132003] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-01-31 14:05:34<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 14:48:30<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 14:49:16<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 14:49:17<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 14:50:16<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 14:50:16<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 14:50:16<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 15:15:18<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" grep: /tmp/.sessions/sessions.txt: No such file or directory
+2014-01-31 15:15:18<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" grep: /tmp/.sessions/sessions.txt: No such file or directory
+2014-01-31 15:15:21<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 15:18:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 15:30:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 15:30:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 15:30:14<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 16:56:42<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 16:59:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 16:59:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 16:59:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 16:59:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 17:14:47<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 17:19:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 17:25:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 17:26:02<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:26:03<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:26:13<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:26:13<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:26:13<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:26:47<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:26:47<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:26:47<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:26:59<<>>ERROR<<>>check if string is present in "/var/nasconf/user-groups/local-groups.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 17:26:59<<>>ERROR<<>>Search Groups<<>>UI<<>>"get_users_string.py, tools.get_string_from_file()", GROUP NOT FOUND 
+2014-01-31 17:27:01<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 17:27:02<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:27:02<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:27:02<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:27:14<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:27:14<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:27:14<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:27:25<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:27:25<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:27:25<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:27:40<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-01-31 17:27:40<<>>ERROR<<>>INFO: SMB configured successfully for share newshare<<>>SCRIPT<<>>smb module configure function
+2014-01-31 17:27:44<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:27:44<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:27:44<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:27:52<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:27:52<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-01-31 17:27:56<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-01-31 17:27:56<<>>INFO<<>>Get Shares<<>>UI<<>>"smb_settings.py, tools.get_all_shares()" INFO: All share informations fetched successfully.
+2014-01-31 17:27:56<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-01-31 17:42:04<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 18:01:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 18:04:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 18:10:54<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 18:15:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 19:13:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-01-31 19:20:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 10:06:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 10:14:03<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 10:17:03<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 10:19:05<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 10:30:18<<>>INFO<<>>INFO: System logs are cleared successfully.<<>>SCRIPT<<>>log_utils module clear_logs function
+2014-02-01 10:40:23<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 10:56:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 11:20:22<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 11:50:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 11:52:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 12:24:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 12:26:57<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 12:26:58<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 12:27:03<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 12:27:04<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 12:33:54<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 12:33:54<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 12:47:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 13:44:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:44:14<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:44:20<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:44:20<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:45:19<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:45:19<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:56:23<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:56:23<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:57:16<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:57:16<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:57:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:57:28<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:57:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 13:57:39<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 13:57:53<<>>ERROR<<>>check if string is present in "/var/nasconf/user-groups/-users.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" grep: /var/nasconf/user-groups/-users.txt: No such file or directory
+2014-02-01 13:57:53<<>>ERROR<<>>Search Users<<>>UI<<>>"get_users_string.py, tools.get_string_from_file()", USER NOT FOUND 
+2014-02-01 14:21:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 14:27:36<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 14:44:52<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 15:50:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 15:50:18<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 15:51:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 15:51:24<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 15:54:00<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 15:54:01<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 15:55:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 15:55:09<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 15:55:30<<>>ERROR<<>>INFO: Share newshare removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 15:55:30<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:03:42<<>>INFO<<>>VG Removed VG peg3     Using volume group(s) on command line
+    Finding volume group "peg3"
+    Removing physical volume "/dev/sdc" from volume group "peg3"
+  Volume group "peg3" successfully removed<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:05:17<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 16:08:03<<>>ERROR<<>>Unable to remove VG " vg_remove_internal"     Using volume group(s) on command line
+    Finding volume group "peg3"
+  Volume group "peg3" not found<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:08:03<<>>INFO<<>>VG Removed VG peg3     Using volume group(s) on command line
+    Finding volume group "peg3"
+  Volume group "peg3" not found<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:08:03<<>>ERROR<<>>Unexpected  Error  while  removing  the VG  in function "vg_remove "<<>>SCRIPT<<>>storage_op.vg_remove function
+2014-02-01 16:08:04<<>>ERROR<<>>Unable to remove VG " vg_remove_internal"     Using volume group(s) on command line
+    Finding volume group "peg3"
+  Volume group "peg3" not found<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:08:04<<>>INFO<<>>VG Removed VG peg3     Using volume group(s) on command line
+    Finding volume group "peg3"
+  Volume group "peg3" not found<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:08:04<<>>ERROR<<>>Unexpected  Error  while  removing  the VG  in function "vg_remove "<<>>SCRIPT<<>>storage_op.vg_remove function
+2014-02-01 16:09:19<<>>ERROR<<>>Unable to remove VG " vg_remove_internal"     Using volume group(s) on command line
+    Finding volume group "peg3"
+  Volume group "peg3" not found<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:09:19<<>>INFO<<>>VG Removed VG peg3     Using volume group(s) on command line
+    Finding volume group "peg3"
+  Volume group "peg3" not found<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:09:19<<>>ERROR<<>>Unexpected  Error  while  removing  the VG  in function "vg_remove "<<>>SCRIPT<<>>storage_op.vg_remove function
+2014-02-01 16:18:11<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:18:36<<>>ERROR<<>>ERROR: Unable to get share information for share newshare<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:18:36<<>>ERROR<<>>INFO: new share with path /storage/my_test/newshare is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:22:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 16:31:37<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:31:38<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:31:43<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:31:43<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:32:10<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:32:11<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:32:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:32:22<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:32:41<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:32:42<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:45:51<<>>INFO<<>>VG Removed VG peg3     Using volume group(s) on command line
+    Finding volume group "peg3"
+    Removing physical volume "/dev/sdc" from volume group "peg3"
+  Volume group "peg3" successfully removed<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 16:52:06<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:52:07<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:52:11<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:52:13<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:52:30<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 16:52:30<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 16:59:06<<>>INFO<<>>VG Removed VG peg3     Using volume group(s) on command line
+    Finding volume group "peg3"
+    Removing physical volume "/dev/sdc" from volume group "peg3"
+  Volume group "peg3" successfully removed<<>>SCRIPT<<>>storage_op.vg_remove_internal function
+2014-02-01 17:07:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 17:17:12<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 18:18:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 18:18:52<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 18:18:54<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 18:19:00<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 18:19:00<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 18:19:09<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 18:19:09<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 18:32:42<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-01 19:12:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 19:12:13<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 19:12:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 19:12:18<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-01 19:12:24<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-01 19:12:25<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:06:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:07:16<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:10:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:27:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:28:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:31:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:35:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:35:54<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:35:56<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:38:57<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:38:59<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:39:06<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:39:07<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:39:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:39:17<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:39:25<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:39:25<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:40:13<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:40:13<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:40:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:40:28<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:42:27<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:42:29<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:42:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:42:42<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:43:11<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:43:12<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:46:46<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:51:05<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:51:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:53:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:53:19<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:53:30<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:53:30<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:53:41<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:53:41<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:53:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:53:49<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:53:53<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:53:55<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:54:03<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:54:05<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:54:33<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 10:54:43<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:54:44<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 10:56:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 10:56:39<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:02:55<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:02:55<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:02:55<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:02:55<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:03:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:03:12<<>>ERROR<<>>ERROR: newshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:03:23<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-03 11:03:23<<>>ERROR<<>>INFO: SMB configured successfully for share newshare<<>>SCRIPT<<>>smb module configure function
+2014-02-03 11:03:27<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:03:27<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:03:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:03:34<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:03:39<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:03:39<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:03:49<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:03:51<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:03:51<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:04:21<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:04:21<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:04:27<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:04:29<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:04:29<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:33<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:05:33<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:05:40<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:05:40<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:41<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:05:41<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:51<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:05:51<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:56<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:05:58<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:05:58<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:06:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:06:36<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:06:43<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:06:45<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:06:45<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:07:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:07:05<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:07:14<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:07:14<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:07:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:07:22<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:07:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:07:38<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:07:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:07:38<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:08:22<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 11:16:52<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:16:54<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:17:07<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:17:07<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:17:12<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:17:13<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 11:17:14<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 11:21:08<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 11:32:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 11:33:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 11:37:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 11:53:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:14:12<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:26:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:26:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:26:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:26:12<<>>ERROR<<>>ERROR: smbshare is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:26:13<<>>ERROR<<>>ERROR: Unable to get share information for share smbshare<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:26:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:26:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:26:34<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:26:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:26:40<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:27:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:27:05<<>>ERROR<<>>ERROR: share is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:27:06<<>>ERROR<<>>ERROR: Unable to get share information for share share<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:27:31<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:27:31<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-03 12:27:31<<>>ERROR<<>>INFO: SMB configured successfully for share newshare<<>>SCRIPT<<>>smb module configure function
+2014-02-03 12:27:34<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:27:34<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:27:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:27:49<<>>ERROR<<>>ERROR: share is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:27:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:27:49<<>>ERROR<<>>ERROR: share is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:27:50<<>>ERROR<<>>ERROR: Unable to get share information for share share<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:28:13<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:28:13<<>>ERROR<<>>ERROR: share is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:28:14<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:28:14<<>>ERROR<<>>ERROR: share is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:28:14<<>>ERROR<<>>ERROR: Unable to get share information for share share<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:28:14<<>>ERROR<<>>ERROR: Unable to get share information for share share<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:28:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:28:17<<>>ERROR<<>>ERROR: share is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-03 12:28:17<<>>ERROR<<>>ERROR: Unable to get share information for share share<<>>SCRIPT<<>>tools module create_share function
+2014-02-03 12:33:36<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:41:08<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:41:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 12:41:52<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 13:50:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-03 14:34:54<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 15:40:00<<>>INFO<<>>Date Change Successfully<<>>SCRIPT<<>>ntp.set_date
+2014-02-20 15:40:00<<>>INFO<<>>NTP configuration remove  Successfully<<>>SCRIPT<<>>ntp.unconfigure function
+2014-02-20 15:40:13<<>>ERROR<<>>Unable to set the Date [023154014]<<>>SCRIPT<<>>ntp.set_date function
+2014-02-20 15:56:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 15:59:52<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 15:59:53<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 16:00:08<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:03:33<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:03:34<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:12:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 16:17:39<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:20:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 16:20:34<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 16:20:54<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:22:29<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:23:45<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:25:23<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:26:26<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:29:10<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:31:26<<>>ERROR<<>>given  path [/storage/p3disk/newshare:
+newshare:/storage/my_test/newshare] Not exists to set acl<<>>SCRIPT<<>>acl.get_acl function
+2014-02-20 16:32:29<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 16:32:46<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 16:32:47<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 16:33:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 16:33:50<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 16:57:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 17:15:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 17:21:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:21:19<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 17:30:24<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:30:25<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 17:34:43<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:34:44<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 17:40:29<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 17:47:20<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:47:22<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 17:47:27<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:47:27<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 17:47:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:47:36<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 17:47:43<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 17:47:44<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:18:26<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:18:27<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:21:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:21:18<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:22:09<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-20 18:23:51<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:23:52<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:24:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:24:40<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:24:45<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:24:45<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:24:54<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:24:54<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:25:04<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:25:05<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:27:43<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:27:44<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:42:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 18:42:10<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 18:55:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 18:57:44<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 19:28:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 19:28:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 19:28:53<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:28:53<<>>ERROR<<>>ERROR: None is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:28:53<<>>ERROR<<>>ERROR: Unable to get share information for share None<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:28:55<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-20 19:29:31<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:29:33<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:29:48<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:29:48<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:30:09<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:30:09<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-20 19:30:09<<>>ERROR<<>>INFO: SMB configured successfully for share newshare<<>>SCRIPT<<>>smb module configure function
+2014-02-20 19:30:13<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:30:13<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:30:34<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:30:34<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-20 19:30:34<<>>ERROR<<>>INFO: SMB configured successfully for share newshare<<>>SCRIPT<<>>smb module configure function
+2014-02-20 19:30:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:30:38<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:30:55<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:30:57<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:31:24<<>>ERROR<<>>ERROR: Unable to get share information for share test<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:31:25<<>>ERROR<<>>INFO: new share with path /storage/my_test/test is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:31:45<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:31:46<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:31:46<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:32:03<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:32:03<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:32:20<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:32:20<<>>ERROR<<>>INFO: SMB test deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-20 19:32:20<<>>ERROR<<>>INFO: SMB configured successfully for share test<<>>SCRIPT<<>>smb module configure function
+2014-02-20 19:32:23<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-20 19:32:23<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-20 19:46:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 09:58:54<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 09:59:50<<>>ERROR<<>>Unable to set the Date [02410114]<<>>SCRIPT<<>>ntp.set_date function
+2014-02-04 10:24:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 10:25:49<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 10:27:38<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 10:53:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-04 10:53:19<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-04 10:53:19<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-04 10:56:21<<>>INFO<<>>permissions set to user mynewuser[rw-] to  path=/storage/my_test/test msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-04 10:56:21<<>>INFO<<>>permissions set to user sanjeev[rwx] to  path=/storage/my_test/test msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-04 11:00:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 11:11:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 11:32:08<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 11:34:56<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-04 11:34:57<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-04 11:34:58<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-04 11:49:55<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 12:12:52<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 12:22:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-04 12:22:24<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-04 12:22:24<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-04 16:04:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 16:53:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 17:33:17<<>>ERROR<<>>Unable to Read  FAN Sensor  inform ation<<>>SCRIPT<<>>ipmi.fan_speed function
+2014-02-04 17:37:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 17:37:30<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 17:55:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 18:11:54<<>>INFO<<>>schedule [/var/nasexe/python/launcher_scripts/sys/cputemp20140204181154] successfulley ingested in to scheduler<<>>SCRIPT<<>>launcher.ingest
+2014-02-04 18:22:32<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-04 18:38:21<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:00:29<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:10:00<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:10:16<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:10:17<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:16:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:24:03<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 10:24:57<<>>ERROR<<>>Unable to Read  FAN Sensor  inform ation<<>>SCRIPT<<>>ipmi.fan_speed function
+2014-02-05 11:01:47<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:09:38<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:12:21<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:12:22<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:12:22<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:27:15<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:28:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:28:06<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:28:07<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:39:00<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:39:01<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:39:01<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:41:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:42:17<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:42:17<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:42:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:42:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 11:42:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:42:50<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:42:50<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:50:59<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:51:15<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 11:51:17<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:51:17<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 11:53:57<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 12:04:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 12:16:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 12:16:13<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 12:16:13<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 12:20:11<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 12:20:12<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 12:20:12<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 12:33:45<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 12:35:55<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 12:35:57<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 12:35:57<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 12:49:46<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 13:36:11<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 13:36:12<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 13:36:12<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 14:22:00<<>>INFO<<>>Date Change Successfully<<>>SCRIPT<<>>ntp.set_date
+2014-02-07 14:22:00<<>>INFO<<>>NTP configuration remove  Successfully<<>>SCRIPT<<>>ntp.unconfigure function
+2014-02-05 14:22:00<<>>INFO<<>>Date Change Successfully<<>>SCRIPT<<>>ntp.set_date
+2014-02-05 14:22:00<<>>INFO<<>>NTP configuration remove  Successfully<<>>SCRIPT<<>>ntp.unconfigure function
+2014-02-05 14:23:58<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 14:24:00<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:24:00<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:24:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 14:24:06<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:24:06<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:39:49<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 14:46:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 14:47:50<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 14:47:51<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:47:51<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:48:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 14:48:19<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:48:19<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:48:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 14:48:42<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:48:42<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:49:06<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 14:49:08<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:49:08<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 14:50:33<<>>INFO<<>>target created Successfully (iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650)<<>>SCRIPT<<>>San stack iscsi_add_target function
+2014-02-05 14:51:18<<>>INFO<<>>disk san_d1 added to target iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650 with lun0 succeffully<<>>SCRIPT<<>>San stack  iscsi_add_disks_tgtfunction
+2014-02-05 14:53:13<<>>INFO<<>>initiator [*#192.168.102.56,192.168.0.56] is added to target [iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650]<<>>SCRIPT<<>>San stack iscsi_ini_add function
+2014-02-05 14:58:20<<>>INFO<<>>Target iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650 Properity has been changed ["DataDigest=CRC32C,FirstBurstLength=1048576,HeaderDigest=None,InitialR2T=No,MaxBurstLength=1048576,MaxRecvDataSegmentLength=1048576,MaxSessions=0,MaxXmitDataSegmentLength=1048576,NopInTimeout=30,QueuedCommands=32,RspTimeout=90"]<<>>SCRIPT<<>>San stack iscsi_set_tgt_attr function
+2014-02-05 14:58:32<<>>INFO<<>>Target iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650 Properity has been changed ["DataDigest=None,FirstBurstLength=1048576,HeaderDigest=None,InitialR2T=No,MaxBurstLength=1048576,MaxRecvDataSegmentLength=1048576,MaxSessions=0,MaxXmitDataSegmentLength=1048576,NopInTimeout=30,QueuedCommands=32,RspTimeout=90"]<<>>SCRIPT<<>>San stack iscsi_set_tgt_attr function
+2014-02-05 15:08:18<<>>INFO<<>>Lun [0] successfully removed from target [iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650]<<>>SCRIPT<<>>San stack iscsi_rem_disks_tgt function
+2014-02-05 15:08:34<<>>ERROR<<>>Failed to remove the lun [-1] from target [iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650]<<>>SCRIPT<<>>San stack iscsi_rem_disks_tgt function
+2014-02-05 15:09:16<<>>INFO<<>>Initiator [*#192.168.102.56,192.168.0.56] is removed from  target [iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650]<<>>SCRIPT<<>>San stack  iscsi_ini_delfunction
+2014-02-05 15:09:51<<>>INFO<<>>disk san_d1 added to target iqn.2009-05.com.tyronesystems:375BE788C8044467B96222E3F68D8765 with lun0 succeffully<<>>SCRIPT<<>>San stack  iscsi_add_disks_tgtfunction
+2014-02-05 15:10:38<<>>INFO<<>>Info: Lv NAS-san created successfully 	  Logical volume "NAS-san" created<<>>SCRIPT<<>>storage_op.lvcreate_internal function
+2014-02-05 15:10:38<<>>INFO<<>>Info: Filesystem Created Successfully meta-data=/dev/peg2/NAS-san      isize=256    agcount=4, agsize=327680 blks
+         =                       sectsz=512   attr=2, projid32bit=0
+data     =                       bsize=4096   blocks=1310720, imaxpct=25
+         =                       sunit=0      swidth=0 blks
+naming   =version 2              bsize=4096   ascii-ci=0
+log      =internal log           bsize=4096   blocks=2560, version=2
+         =                       sectsz=512   sunit=0 blks, lazy-count=1
+realtime =none                   extsz=4096   blocks=0, rtextents=0<<>>SCRIPT<<>>storage_op.make_fs function
+2014-02-05 15:16:03<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 15:20:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 15:20:29<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:20:29<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:22:15<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 15:23:10<<>>INFO<<>>disk san_d1 added to target iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650 with lun0 succeffully<<>>SCRIPT<<>>San stack  iscsi_add_disks_tgtfunction
+2014-02-05 15:23:46<<>>INFO<<>>initiator [*#192.168.102.56,192.168.0.56] is added to target [iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650]<<>>SCRIPT<<>>San stack iscsi_ini_add function
+2014-02-05 15:24:18<<>>INFO<<>>Target iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650 Properity has been changed ["DataDigest=CRC32C,FirstBurstLength=1048576,HeaderDigest=None,InitialR2T=No,MaxBurstLength=1048576,MaxRecvDataSegmentLength=1048576,MaxSessions=0,MaxXmitDataSegmentLength=1048576,NopInTimeout=30,QueuedCommands=32,RspTimeout=90"]<<>>SCRIPT<<>>San stack iscsi_set_tgt_attr function
+2014-02-05 15:25:21<<>>INFO<<>>Initiator [*#192.168.0.56] is removed from  target [iqn.2009-05.com.tyronesystems:1CFB18B71D494D608377FA902E8168A8]<<>>SCRIPT<<>>San stack  iscsi_ini_delfunction
+2014-02-05 15:25:29<<>>INFO<<>>Initiator [*#192.168.102.56] is removed from  target [iqn.2009-05.com.tyronesystems:1CFB18B71D494D608377FA902E8168A8]<<>>SCRIPT<<>>San stack  iscsi_ini_delfunction
+2014-02-05 15:26:51<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 15:26:52<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:26:52<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:27:09<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 15:27:10<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:27:10<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:27:44<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 15:27:45<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:27:45<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:31:41<<>>INFO<<>>Target iqn.2009-05.com.tyronesystems:777F2FF741FB420B9F1C102B24CF650 Properity has been changed ["DataDigest=CRC32C,FirstBurstLength=1048576,HeaderDigest=CRC32C,InitialR2T=No,MaxBurstLength=1048576,MaxRecvDataSegmentLength=1048576,MaxSessions=0,MaxXmitDataSegmentLength=1048576,NopInTimeout=30,QueuedCommands=32,RspTimeout=90"]<<>>SCRIPT<<>>San stack iscsi_set_tgt_attr function
+2014-02-05 15:32:58<<>>INFO<<>>lv "NAS-san" removed successfully   Logical volume "NAS-san" successfully removed<<>>SCRIPT<<>>storage_op.lvremove_internal function
+2014-02-05 15:33:27<<>>INFO<<>>Info: Lv NAS-hh created successfully 	  Logical volume "NAS-hh" created<<>>SCRIPT<<>>storage_op.lvcreate_internal function
+2014-02-05 15:33:27<<>>INFO<<>>Info: Filesystem Created Successfully meta-data=/dev/peg2/NAS-hh       isize=256    agcount=4, agsize=327680 blks
+         =                       sectsz=512   attr=2, projid32bit=0
+data     =                       bsize=4096   blocks=1310720, imaxpct=25
+         =                       sunit=0      swidth=0 blks
+naming   =version 2              bsize=4096   ascii-ci=0
+log      =internal log           bsize=4096   blocks=2560, version=2
+         =                       sectsz=512   sunit=0 blks, lazy-count=1
+realtime =none                   extsz=4096   blocks=0, rtextents=0<<>>SCRIPT<<>>storage_op.make_fs function
+2014-02-05 15:34:00<<>>INFO<<>>lv "NAS-hh" removed successfully   Logical volume "NAS-hh" successfully removed<<>>SCRIPT<<>>storage_op.lvremove_internal function
+2014-02-05 15:41:01<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 15:41:03<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:41:03<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:41:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 15:41:29<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:41:29<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 15:56:41<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:07:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:12:45<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:25:44<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:29:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:49:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:57:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 16:59:11<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 16:59:12<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:13<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 16:59:17<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:23<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:25<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 16:59:25<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:39<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 16:59:39<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:48<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:48<<>>ERROR<<>>INFO: SMB test deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-05 16:59:48<<>>ERROR<<>>INFO: SMB configured successfully for share test<<>>SCRIPT<<>>smb module configure function
+2014-02-05 16:59:50<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 16:59:50<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 16:59:59<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:00:01<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:00:01<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:00:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:00:09<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:00:09<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:00:15<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:00:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:00:17<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:01:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:01:33<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:01:33<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:01:37<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:01:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:01:38<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:01:39<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:01:39<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:04:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:04:09<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:04:09<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:08:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:08:06<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:08:07<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:08:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:08:12<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:08:29<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:08:30<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:08:31<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:13:56<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:13:57<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:13:57<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:18:04<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 17:22:04<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 17:28:14<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 17:39:41<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 17:40:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:40:10<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:40:10<<>>ERROR<<>>INFO: configuration information for share test get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:40:34<<>>ERROR<<>>INFO: Share test removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:03<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:05<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:42:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:13<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:42:24<<>>ERROR<<>>ERROR: Unable to get share information for share test<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:24<<>>ERROR<<>>ERROR: share creation path my_test/test is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:38<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:39<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:42:50<<>>ERROR<<>>ERROR: Unable to get share information for share testtest<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:42:51<<>>ERROR<<>>INFO: new share with path /storage/my_test/testtest is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:43:00<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:43:02<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:43:02<<>>ERROR<<>>ERROR: testtest is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-05 17:43:07<<>>ERROR<<>>INFO: Share testtest removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:44:18<<>>ERROR<<>>INFO: Share testtest removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:44:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 17:44:19<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:14:01<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 18:49:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 18:50:44<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:50:46<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:51:00<<>>ERROR<<>>ERROR: Unable to get share information for share sunnyTest<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:51:00<<>>ERROR<<>>INFO: new share with path /storage/my_test/sunnyTest is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:51:09<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:51:10<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:51:10<<>>ERROR<<>>ERROR: sunnyTest is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:51:15<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:51:25<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:51:31<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:51:33<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:51:33<<>>ERROR<<>>ERROR: sunnyTest is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:51:39<<>>ERROR<<>>INFO: Share sunnyTest removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:52:29<<>>ERROR<<>>INFO: Share sunnyTest removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:52:29<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:52:30<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:52:42<<>>ERROR<<>>ERROR: Unable to get share information for share sunnyTest<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:52:43<<>>ERROR<<>>ERROR: share creation path my_test/sunnyTest is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:53:10<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:53:12<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:53:30<<>>ERROR<<>>ERROR: Unable to get share information for share sunnyTest<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:53:30<<>>ERROR<<>>ERROR: share creation path my_test/sunnyTest is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:53:44<<>>ERROR<<>>ERROR: Unable to get share information for share test<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:53:44<<>>ERROR<<>>ERROR: share creation path my_test/test is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:55:00<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:55:01<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:55:14<<>>ERROR<<>>ERROR: Unable to get share information for share test<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:55:14<<>>ERROR<<>>ERROR: share creation path my_test/test is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:57:05<<>>ERROR<<>>ERROR: Unable to get share information for share test<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:57:05<<>>ERROR<<>>ERROR: share creation path my_test/test is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:57:42<<>>ERROR<<>>ERROR: Unable to get share information for share test33<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:57:42<<>>ERROR<<>>INFO: new share with path /storage/my_test/test33 is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:58:01<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:58:03<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:58:03<<>>ERROR<<>>ERROR: test33 is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:59:24<<>>ERROR<<>>INFO: Share test33 removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:59:24<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:59:25<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 18:59:45<<>>ERROR<<>>ERROR: Unable to get share information for share test33<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 18:59:45<<>>ERROR<<>>ERROR: share creation path my_test/test33 is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:06:38<<>>ERROR<<>>ERROR: Unable to get share information for share testsanjeev<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:06:38<<>>ERROR<<>>INFO: new share with path /storage/my_test/testsanjeev is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:06:47<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:06:48<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 19:06:48<<>>ERROR<<>>ERROR: testsanjeev is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-05 19:06:58<<>>ERROR<<>>INFO: Share testsanjeev removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:06:58<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:06:59<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 19:07:15<<>>ERROR<<>>ERROR: Unable to get share information for share testsanjeev<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:07:15<<>>ERROR<<>>ERROR: share creation path my_test/testsanjeev is already exist in storage.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:10:07<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:10:08<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 19:17:42<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 19:19:48<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:19:50<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 19:22:22<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 19:25:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 19:44:23<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 19:44:24<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 19:47:14<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 19:52:05<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-05 20:03:58<<>>ERROR<<>>ERROR: Unable to get share information for share abctest<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 20:03:58<<>>ERROR<<>>INFO: new share with path /storage/my_test/abctest is created successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 20:04:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 20:04:42<<>>ERROR<<>>ERROR: abctest is not configured.<<>>SCRIPT<<>>smb module show function
+2014-02-05 20:04:42<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 20:04:52<<>>ERROR<<>>INFO: Share abctest removed successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 20:04:52<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-05 20:04:53<<>>ERROR<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-05 20:07:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 10:48:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 10:50:54<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:08:22<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:12:57<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:12:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:12:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:12:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:13:00<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:13:00<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:13:02<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:19:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:26:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:28:01<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:35:08<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:53:11<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 11:59:16<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 12:00:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 12:25:52<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 12:26:57<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 13:06:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 13:12:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 13:21:46<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 13:28:58<<>>ERROR<<>>ERROR: sanjeev is not found in the user database.<<>>SCRIPT<<>>manage_users module delete_user function
+2014-02-06 13:36:15<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 14:01:29<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 14:01:31<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 14:09:58<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 14:09:59<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 14:10:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 14:10:24<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 14:10:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 14:10:29<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 14:10:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 14:10:34<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 14:11:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 14:21:12<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 14:21:13<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 14:32:25<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 14:36:30<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:11:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 15:11:42<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 15:25:34<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:27:37<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:32:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:39:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:39:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:39:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:39:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 15:58:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 16:50:41<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 16:55:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 16:55:06<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 16:55:14<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 16:55:14<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 16:55:57<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 16:55:58<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 17:02:24<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 17:06:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 17:08:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 17:12:27<<>>INFO<<>>snapshot SNP001NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 17:13:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 17:13:30<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 17:13:37<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 17:16:26<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 17:16:27<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 17:17:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-06 17:17:06<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-06 17:38:55<<>>INFO<<>>snapshot SNP002NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 17:42:29<<>>INFO<<>>snapshot SNP003NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 17:56:46<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 17:56:57<<>>INFO<<>>Snapshot [SNP002NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 18:17:58<<>>ERROR<<>>it seems snapshot [SNP] not present<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 18:20:11<<>>ERROR<<>>it seems snapshot [001NAS-my_test] not present<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 18:22:06<<>>INFO<<>>Snapshot [SNP001NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 18:22:18<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 18:24:11<<>>INFO<<>>Snapshot [SNP003NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 18:24:24<<>>INFO<<>>snapshot SNP001NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 18:40:20<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 18:52:58<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 19:01:01<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:19:26<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 19:19:54<<>>INFO<<>>Snapshot [SNP001NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 19:24:04<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:24:21<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 19:32:29<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:33:03<<>>INFO<<>>snapshot SNP001NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:33:21<<>>INFO<<>>snapshot SNP002NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:49:54<<>>INFO<<>>snapshot SNP003NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:50:17<<>>INFO<<>>snapshot SNP004NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 19:50:46<<>>INFO<<>>Snapshot [SNP001NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 19:53:47<<>>INFO<<>>snapshot SNP001NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 20:08:04<<>>INFO<<>>snapshot SNP005NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-06 20:08:12<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 20:08:21<<>>INFO<<>>Snapshot [SNP002NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-06 20:08:21<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 20:09:27<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 20:10:16<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-06 20:23:46<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 10:46:34<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 11:02:05<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 11:02:09<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 11:02:09<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 11:02:09<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 11:02:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:03:12<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:03:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:03:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:04:40<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:13:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:14:57<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:14:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:14:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:14:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:25:04<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:26:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:26:39<<>>ERROR<<>>create_snapshot only work for NAS / BIO  only<<>>SCRIPT<<>>snaphot create_snapshot  function
+2014-02-07 12:28:33<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-07 12:29:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:34:50<<>>INFO<<>>snapshot SNP002NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-07 12:43:25<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:47:09<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:47:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:47:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:47:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:48:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:49:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:49:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:49:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 12:49:08<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 13:03:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 13:05:24<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 13:08:38<<>>Success<<>>Fetch Log Information<<>>show_logs.py<<>>INFO: Configuration information fetched successfully.
+2014-02-07 13:22:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 13:22:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 13:38:41<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 13:41:32<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 14:16:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 14:16:32<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 14:17:16<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 14:26:36<<>>Success<<>>Log Rotate Information<<>>show_logs.py<<>>INFO: New configuration informations updated to logrotate.
+2014-02-07 14:28:16<<>>Success<<>>Fetch Log Information<<>>show_logs.py<<>>INFO: Configuration information fetched successfully.
+2014-02-07 14:29:34<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack fc_target_status function
+2014-02-07 14:29:34<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack ib_target_status function
+2014-02-07 14:29:49<<>>Success<<>>Log Rotate Information<<>>show_logs.py<<>>INFO: New configuration informations updated to logrotate.
+2014-02-07 14:30:03<<>>Success<<>>Fetch Log Information<<>>show_logs.py<<>>INFO: Configuration information fetched successfully.
+2014-02-07 14:30:18<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-07 14:31:05<<>>Success<<>>Fetch Log Information<<>>show_logs.py<<>>INFO: Configuration information fetched successfully.
+2014-02-07 14:31:23<<>>Success<<>>Fetch Log Information<<>>show_logs.py<<>>INFO: Configuration information fetched successfully.
+2014-02-07 14:37:19<<>>Success<<>>Create new Configuration<<>>show_logs.py<<>>INFO: New configuration file created successfully.
+2014-02-07 14:37:38<<>>Success<<>>Fetch Log Information<<>>show_logs.py<<>>INFO: Configuration information fetched successfully.
+2014-02-07 14:44:17<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 14:46:50<<>>Success<<>>Log Rotate Information<<>>show_logs.py<<>>INFO: New configuration informations updated to logrotate.
+2014-02-07 15:30:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 15:33:35<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:33:36<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:35:15<<>>INFO<<>>permissions set to user craja[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:35:16<<>>INFO<<>>permissions set to user testuser[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:37:18<<>>INFO<<>>permissions set to user craja[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:37:19<<>>INFO<<>>permissions set to user testuser[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:37:19<<>>Success<<>>Acl Succefully set<<>>set_acl_page.py<<>>True
+2014-02-07 15:41:23<<>>ERROR<<>>ERROR: Unable to get share information for share <<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:41:59<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:42:01<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:42:25<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 15:42:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:42:34<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:43:03<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:43:04<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:43:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:43:29<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:43:47<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:43:48<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:43:53<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:43:54<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:43:54<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:43:55<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:43:56<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:43:56<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:44:02<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:44:03<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:44:05<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:44:07<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:44:26<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:44:28<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:46:03<<>>INFO<<>>permissions set to user craja[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:46:03<<>>INFO<<>>permissions set to user mynewuser[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:46:03<<>>INFO<<>>permissions set to user testuser[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-07 15:46:04<<>>Success<<>>Acl Succefully set<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 15:48:42<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 15:48:43<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 15:49:42<<>>INFO<<>>reset the  permissions of craja  path=/storage/my_test/newshare<<>>SCRIPT<<>>acl.reset_acl_user function
+2014-02-07 15:59:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 16:01:58<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 16:01:59<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 16:02:32<<>>INFO<<>>reset the  permissions of mynewuser  path=/storage/my_test/newshare<<>>SCRIPT<<>>acl.reset_acl_user function
+2014-02-07 16:02:32<<>>Success<<>>Succefully Reset the Single User<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 16:05:24<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-07 16:05:24<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 16:06:12<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-07 16:06:12<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 16:13:21<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-07 16:13:21<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 16:13:38<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack fc_target_status function
+2014-02-07 16:13:38<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack ib_target_status function
+2014-02-07 16:13:51<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-07 16:13:51<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 16:28:04<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 16:28:57<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 16:29:54<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 16:38:48<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 16:38:49<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 16:40:00<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-07 16:43:49<<>>INFO<<>>permissions has been set to path=/storage/my_test/newshare<<>>SCRIPT<<>>acl.reset_acl function
+2014-02-07 16:43:49<<>>Success<<>>Acl Succefully Reset<<>>UI<<>>set_acl_page.pyTrue
+2014-02-07 16:45:19<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack fc_target_status function
+2014-02-07 16:45:19<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack ib_target_status function
+2014-02-07 16:59:36<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 16:59:58<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 17:10:21<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 17:12:58<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack fc_target_status function
+2014-02-07 17:12:58<<>>ERROR<<>>Found no Targets target_status<<>>SCRIPT<<>>San stack ib_target_status function
+2014-02-07 17:24:01<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 17:24:03<<>>INFO<<>>snapshot SNP000NAS-my_test created Successfully<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-07 17:24:21<<>>INFO<<>>Snapshot [SNP000NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-07 17:24:53<<>>INFO<<>>Snapshot [SNP001NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-07 17:25:06<<>>INFO<<>>Snapshot [SNP002NAS-my_test] removed successfully<<>>SCRIPT<<>>snap shot  delete_snapshot function
+2014-02-07 17:25:24<<>>ERROR<<>>unable to create a Snapshot in create_snapshot [SNP000NAS-my_test]   Rounding up size to full physical extent 10.35 PiB
+  Volume group "peg2" has insufficient free space (106415 extents): 2777777778 required.<<>>SCRIPT<<>>snap shot create_snapshot  function
+2014-02-07 17:40:25<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 17:43:50<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 17:59:33<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 18:39:19<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 18:48:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 18:56:42<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:04:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:05:38<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:06:15<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:06:56<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:07:02<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:07:06<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:07:09<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:07:15<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:35:07<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 19:48:04<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 20:02:46<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-07 20:07:00<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 20:07:02<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 20:07:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 20:07:08<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 20:07:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 20:07:28<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-07 20:09:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-07 20:09:19<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 10:51:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" grep: /tmp/.sessions/sessions.txt: No such file or directory
+2014-02-10 10:51:28<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" grep: /tmp/.sessions/sessions.txt: No such file or directory
+2014-02-10 10:51:29<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 10:58:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:01:36<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/mukesh1]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-10 11:03:06<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:03:08<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:04:32<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:04:33<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:04:35<<>>INFO<<>>permissions set to user craja[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:04:35<<>>INFO<<>>permissions set to user testuser[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:04:35<<>>Success<<>>Acl Succefully set<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:05:15<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-10 11:05:15<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:05:17<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:05:17<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:06:49<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-10 11:08:34<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-10 11:08:34<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:10:14<<>>INFO<<>>permissions has been set to path=/storage/my_test/newshare<<>>SCRIPT<<>>acl.reset_acl function
+2014-02-10 11:10:38<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-10 11:17:10<<>>INFO<<>>permissions set to user craja[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:17:10<<>>INFO<<>>permissions set to user testuser[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:17:10<<>>Success<<>>Acl Succefully set<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:18:15<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_permissions function
+2014-02-10 11:18:15<<>>Success<<>>Succefully Change the Share Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:18:17<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:18:25<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:18:25<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:18:27<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:18:30<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:19:23<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:19:35<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:19:35<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:19:37<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:20:02<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:20:02<<>>ERROR<<>>Unable to retrive the acl  from path=/storage/my_test/newshare Unexpected  Error are parsing<<>>SCRIPT<<>>acl.get_acl function
+2014-02-10 11:20:02<<>>INFO<<>>permissions set to user craja[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:20:02<<>>INFO<<>>permissions set to user testuser[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:20:02<<>>Success<<>>Acl Succefully set<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:21:29<<>>INFO<<>>permissions set to user craja[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:21:29<<>>INFO<<>>permissions set to user testuser[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:21:29<<>>Success<<>>Succefully Update the Acl User Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:22:17<<>>INFO<<>>permissions set to user craja[rwx] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:22:17<<>>INFO<<>>permissions set to user testuser[rw-] to  path=/storage/my_test/newshare msg:<<>>SCRIPT<<>>acl.set_acl function
+2014-02-10 11:22:17<<>>Success<<>>Succefully Update the Acl User Permission<<>>UI<<>>set_acl_page.pyTrue
+2014-02-10 11:29:28<<>>ERROR<<>>ERROR: Unable to get share information for share <<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:30:26<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:30:28<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:35:56<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:35:57<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:36:14<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:36:14<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:44:18<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:44:20<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:44:52<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:45:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:45:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:45:53<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:45:54<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 11:47:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 11:47:50<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 11:49:51<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:07:31<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:08:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:08:37<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:12:40<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:12:41<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:13:28<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:13:28<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:23:23<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:23:45<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:23:45<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:23:48<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:27:06<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 12:31:58<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:32:00<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:33:23<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:33:24<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:41:20<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:41:21<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:43:15<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:43:15<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:43:47<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:43:47<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:44:27<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:44:27<<>>ERROR<<>>INFO: SMB newshare deleted successfully.<<>>SCRIPT<<>>smb module unconfigure function
+2014-02-10 12:44:27<<>>ERROR<<>>INFO: SMB configured successfully for share newshare<<>>SCRIPT<<>>smb module configure function
+2014-02-10 12:44:29<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:44:29<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:45:27<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:45:27<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:45:44<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 12:45:44<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 12:59:30<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 13:02:33<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:02:35<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:03:37<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:03:38<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:05:06<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:05:07<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:05:39<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 13:05:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 13:05:59<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 13:06:00<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 13:06:33<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:06:34<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:18:54<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:18:55<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:24:10<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:24:12<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:24:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:24:38<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:26:16<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 13:43:43<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 13:43:44<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 13:45:34<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 13:46:54<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 13:57:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 14:00:41<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 14:50:21<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 14:55:22<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 14:55:23<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 15:02:15<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 15:14:26<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 15:18:45<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 15:21:49<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 15:21:51<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 15:25:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 15:25:37<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 15:33:56<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 15:52:23<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 16:12:31<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 16:29:45<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 16:31:57<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 16:31:59<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 16:33:10<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 16:33:12<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 16:44:31<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 16:46:46<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 16:56:00<<>>ERROR<<>>given  path [/storage/None] Not exists to set ownership<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 16:56:00<<>>ERROR<<>>Set Ownership<<>>UI<<>>"change_ownership.py " False
+2014-02-10 16:56:09<<>>ERROR<<>>ERROR: Unable to get share information for share None<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 16:56:45<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 16:56:47<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 16:58:26<<>>ERROR<<>>given  path [/storage/None] Not exists to set ownership<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 16:58:26<<>>ERROR<<>>Set Ownership<<>>UI<<>>"change_ownership.py " False
+2014-02-10 16:58:36<<>>ERROR<<>>ERROR: Unable to get share information for share None<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 16:59:46<<>>ERROR<<>>ERROR: Unable to get share information for share None<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 17:00:32<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 17:04:54<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 17:12:03<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 17:13:40<<>>ERROR<<>>check if string is present in "/var/nasconf/user-groups/local-users.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 17:13:40<<>>ERROR<<>>Search Users<<>>UI<<>>"get_users_string.py, tools.get_string_from_file()", USER NOT FOUND 
+2014-02-10 17:17:25<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 17:19:35<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 17:19:36<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 17:30:13<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 17:30:15<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 17:33:24<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 17:36:34<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 17:36:36<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 17:37:19<<>>INFO<<>>Successfully chage the  ownership of [/storage/my_test/newshare]<<>>SCRIPT<<>>acl.set_ownership function
+2014-02-10 17:47:16<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 17:47:18<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 17:51:53<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 17:51:53<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 18:19:08<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 18:19:08<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 18:21:56<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 18:21:57<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 18:42:36<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 18:42:38<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 18:42:56<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 18:42:56<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 18:48:07<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 18:48:07<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 18:48:33<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 18:48:33<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 19:04:10<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 19:15:10<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 19:15:12<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 19:22:15<<>>ERROR<<>>INFO: All share informations fetched successfully.<<>>SCRIPT<<>>tools module create_share function
+2014-02-10 19:22:15<<>>INFO<<>>INFO: configuration information for share newshare get successfully.<<>>SCRIPT<<>>smb module show function
+2014-02-10 19:22:57<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 
+2014-02-10 19:38:13<<>>ERROR<<>>check if string is present in "/tmp/.sessions/sessions.txt" or not<<>>SCRIPT<<>>tools module "get_string_from_file" 

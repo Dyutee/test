@@ -1,0 +1,87 @@
+#!/usr/bin/python
+import sys, commands, string
+
+sys.path.append('/var/www/fs4/py/')
+import memory_information
+
+sys.path.append('/var/nasexe/python/')
+import tools
+from tools import sync
+from tools import db
+
+node = tools.get_ha_nodename()
+sync_time = sync.get_time()
+
+#get_temp = common_methods.getsystemperature()
+
+
+ethstring = commands.getoutput('cat /proc/net/dev|grep ["bond|eth|ib"]|awk -F " " {\'print $1\'}|grep ":"|tr -s "\n" "#"')
+ethstring = ethstring.replace(':', '')
+ethstring = ethstring[:ethstring.rfind('#')].strip()
+
+etharray   = ethstring.split('#')
+#print etharray
+#print etharray
+for i in etharray:
+	in_bytes = 0
+	out_bytes = 0
+	ethdict = {'rxbytes':'', 'txbytes':''}
+	rxtxbytes = commands.getstatusoutput('sudo ifconfig "%s"|grep "RX bytes"' % i)
+	if (rxtxbytes[0] == 0):
+		ethres = rxtxbytes[1]
+
+		rxbytes = ethres[ethres.find('RX bytes:') + len('RX bytes:'):ethres.find('TX')]
+		txbytes = ethres[ethres.find('TX bytes:') + len('TX bytes:'):]
+
+		rxbytes = rxbytes[:rxbytes.find('(')]
+		txbytes = txbytes[:txbytes.find('(')]
+
+		rxbytes = rxbytes.strip()
+		txbytes = txbytes.strip()
+
+		ethdict['rxbytes'] = rxbytes
+		ethdict['txbytes'] = txbytes
+
+		query = 'select count(*) from eth_traffic where interface="'+i+'"'
+		execute=db.sql_execute(query,True,data=1)
+		count = execute["output"][0]["count(*)"]
+		count = int(count) - 1
+		"""
+		Following two lines code added on 13th October 2014 to handle empty data table scenario by C.Raja.
+		"""
+		if count < 0:
+			count=0
+		query = 'SELECT * FROM eth_traffic where interface="'+i+'" LIMIT '+str(count)+',1'
+		execute=db.sql_execute(query,True,data=1)
+		#query = 'SELECT * FROM eth_traffic WHERE  timestamp=(SELECT MAX(timestamp) FROM eth_traffic where interface="'+i+'") and interface="'+i+'";'
+		print query
+                execute=db.sql_execute(query,True,data=1)
+		if(execute["output"] != ()):
+			output = execute["output"][0]
+			#print output["incoming"]
+			rx_diff = int(ethdict['rxbytes']) - int(output["incoming"])
+			tx_diff = int(ethdict['txbytes']) - int(output["outgoing"])
+			time_diff = sync.get_date_diff(sync_time, output["timestamp"])
+			in_bytes = rx_diff/int(time_diff)
+			out_bytes = tx_diff/int(time_diff)
+			in_bytes = float(in_bytes)/1024
+			out_bytes = float(out_bytes)/1024
+			#print in_bytes
+			#print out_bytes
+			#print "\n"
+			#print int(time_diff)
+			#print ethdict['rxbytes']
+			#print output["incoming"]
+			#print rx_diff
+			print "\n"
+		write_query = 'mysql -uroot -pnetweb fs2data -e "insert into eth_traffic (timestamp,interface,incoming,outgoing,node,in_bytes,out_bytes) values (\''+str(sync_time)+'\',\''+str(i)+'\',\''+str(ethdict['rxbytes'])+'\',\''+str(ethdict['txbytes'])+'\',\''+str(node)+'\',\''+str(in_bytes)+'\',\''+str(out_bytes)+'\');"'
+                write_cmd = commands.getstatusoutput(write_query)
+
+		create_file = commands.getstatusoutput("sudo touch /var/www/fs4/py/canvas-graph/traffic_"+i)
+		create_file = commands.getstatusoutput("sudo > /var/www/fs4/py/canvas-graph/traffic_"+i)
+		fou = open("/var/www/fs4/py/canvas-graph/traffic_"+i, "rw+")
+		fou.write(str(in_bytes)+":"+str(out_bytes))
+		fou.close()
+
+
+
